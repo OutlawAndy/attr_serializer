@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Andy Cohen"]
   spec.email         = ["yourstruly@outlawandy.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = "easy JSON serialization for ActiveRecord models"
+  spec.description   = "quickly specify model attributes that should be serialized when to_json is called"
+  spec.homepage      = "https://github.com/OutlawAndy/attr_serializer"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
