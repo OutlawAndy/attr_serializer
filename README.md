@@ -1,19 +1,16 @@
-# AttrSerializer
+# AttrSerializer  [![Gem Version](https://badge.fury.io/rb/attr_serializer.svg)](https://badge.fury.io/rb/attr_serializer)
 easy JSON serialization for ActiveRecord models
+
 
 ## Installation
 
-Add this line to your application's Gemfile:
+Add this line to your application's Gemfile
 
 ```ruby
 gem 'attr_serializer'
 ```
 
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
+Or install it yourself
 
     $ gem install attr_serializer
 
